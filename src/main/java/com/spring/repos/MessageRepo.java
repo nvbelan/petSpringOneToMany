@@ -1,6 +1,6 @@
-package com.spring.controllers.repos;
+package com.spring.repos;
 
-import com.spring.controllers.domain.Message;
+import com.spring.domain.Message;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

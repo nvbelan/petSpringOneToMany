@@ -1,4 +1,4 @@
-package com.spring.controllers.domain;
+package com.spring.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
